@@ -1,1 +1,2 @@
 C:\Users\CHRISTOPHER\Desktop\english down\EnglishCenterManagement\bin\Debug\EnglishCenterManagement.exe.config
+C:\Users\CHRISTOPHER\Desktop\downlaod\english\EnglishCenterManagement\bin\Debug\EnglishCenterManagement.exe.config

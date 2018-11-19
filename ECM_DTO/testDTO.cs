@@ -8,5 +8,6 @@ namespace ECM_DTO
 {
     class testDTO
     {
+        private int ahihihihi;
     }
 }
